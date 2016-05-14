@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Pith Studio]]></title>
         <description><![CDATA[Pith Studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pith-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 21:54:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 21:54:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pith-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]]]></title>
+            <description><![CDATA[<article><h1>The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]</h1><p>Design is a plan for arranging elements in such a way as to accomplish a particular purpose. - Charles Eames In order to arrange your design, you need a place to start. Backgrounds are the foundation of your graphics - it helps pave the path to forming a successful composition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/877d79945943ec595c9e850987ca4480cd3a921f.jpg"></article>]]></description>
+            <link>https://designschool.canva.com/blog/background-design/</link>
+            <guid isPermaLink="false">b8fcb184-a832-4a55-98be-121e06134c66</guid>
+            <pubDate>Sat, 14 May 2016 21:53:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Space odyssey: photographer Thomas Ruff heads to the moon with new work.]]></title>
             <description><![CDATA[<article><h1>Space odyssey: photographer Thomas Ruff heads to the moon with new work.</h1><p>The Düsseldorf photographer Thomas Ruff is having his day in the sun, with the Art Gallery of Ontario's 'Object Relations', a major solo show, opening this month. Closer to home, Chelsea's David Zwirner Gallery is celebrating Ruff's latest series of work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c8a09fa223ef7576c2280cc4791191f7651bcb1.jpg"></article>]]></description>

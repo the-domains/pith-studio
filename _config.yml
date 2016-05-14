@@ -1,0 +1,14 @@
+layout_spectrum: 0.12986880773678422
+typography_spectrum: 0.6415801888797432
+color:
+  brandStrength: 0.5616612394805998
+  lightness: 0.9201206902507693
+  saturation: 0.9224347441922873
+  rhythmicContrast: 0.563559885835275
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Pith Studio
